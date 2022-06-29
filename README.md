@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Galaxiius
-- 👀 I’m interested in learn technology 
+- 👀 I’m interested in improve my abilities in tecnology 
 - 🌱 I’m currently learning JS, html n css
 
 <!---
