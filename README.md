@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Galaxiius
-- 👀 I’m interested in improve my abilities in tecnology 
-- 🌱 I’m currently learning JS, html n css, and this is my first projects
+- 👀 I’m interested in improve my abilities and learn more about this "future world" 
+- 🌱 I’m currently learning JS, html n css, and this is my storage box
 
 - To the infinity and beyond!
 
